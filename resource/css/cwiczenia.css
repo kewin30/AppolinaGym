@@ -1,0 +1,51 @@
+.c1{
+    background-color: white;
+}
+.c2{
+    background-color: white;
+}
+.c3{
+    background-color: white;
+}
+.c4{
+    background-color: white;
+}
+.c5{
+    background-color: white;
+}
+.c6{
+    background-color: white;
+    height: 300px;
+}
+.kontener
+{
+    background-color: white;
+}
+.paragraph{
+    font-size: 20px;
+    padding-left: 200px;
+    padding-top: 10vh;
+    padding-right: 200px;
+    text-align: center;
+}
+.cf
+{
+    position: relative;
+    width: 350px;
+    height: 250px;
+}
+.cf img{
+    position: absolute;
+    padding-left: 30px;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+.cf img.top:hover {
+    opacity:0;
+  }
+  #Strona a:hover{
+      background-color: red;
+  }
+
